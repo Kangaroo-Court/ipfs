@@ -1,0 +1,20 @@
+{
+    "name": "Kangaroo Court Bailiff",
+    "description": "Kangaroo Court",
+    "image": "ipfs://bafybeic7bdeizr3luqxz7twzavc5zpkb5t6pdguubrjkvhln2py5ubposy/balif1.png",
+    "dna": "039ru39ru09f03f0hf0hfg08e0hv9wehf0uq30fqev9oejfojefeofj0jwf",
+    "edition": 7,
+    "date": 1683901673
+    "attributes": [
+{
+    "trait_type": "Strength",
+    "value": "10"
+},
+
+{
+    "trait_type": "Perception",
+    "value": "10"
+}
+
+   ]
+}

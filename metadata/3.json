@@ -1,0 +1,18 @@
+{
+    "name": "Kangaroo Court Defense",
+    "description": "Kangaroo Court",
+    "image": "ipfs://bafybeic7bdeizr3luqxz7twzavc5zpkb5t6pdguubrjkvhln2py5ubposy/defense1.png",
+    "dna": "029727r9hf9wehf9wehjf0weufhw038q0urh938r0irj0ff",
+    "edition": 3,
+    "date": 1683901673
+    "attributes": [
+{
+    "trait_type": "Integrity",
+    "value": "10"
+    },
+{
+    "trait_type": "Perserverance",
+    "value": "10"
+}
+]
+}

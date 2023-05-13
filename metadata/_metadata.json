@@ -1,0 +1,155 @@
+[
+    {
+        "name": "Kangaroo Court Judge",
+        "description": "Kangaroo Court",
+        "image": "ipfs://bafybeic7bdeizr3luqxz7twzavc5zpkb5t6pdguubrjkvhln2py5ubposy/judge.png",
+        "dna": "0w3r99uofjoejiwj9wur9gj9rge9rer9t8398r93utf9wjg9rhg9erhosdvs",
+        "edition": 1,
+        "date": 1683901673
+
+        "attributes": [
+    {
+        "trait_type": "Wisdom",
+        "value": "10"
+    },
+    {
+        "trait_type": "Patience",
+        "value": "10"
+    }
+
+                        ],
+        "compiler": "Kanga"
+    },
+
+    {
+        "name": "Kangaroo Court Prosecutor",
+        "description": "Kangaroo Court",
+        "image": "ipfs://bafybeic7bdeizr3luqxz7twzavc5zpkb5t6pdguubrjkvhln2py5ubposy/prosecutor1.png",
+        "dna": "0388hr9ehf9eyw083r0uw0eu9w03ru038r0u30rj39f3r83r0j30h",
+        "edition": 2,
+        "date": 1683901673
+        "attributes": [
+    {
+        "trait_type": "Sensativity",
+        "value": "10"
+    },
+    {
+        "trait_type": "Memory",
+        "value": "10"
+    }
+    ]
+        },
+    {
+        "name": "Kangaroo Court Defense",
+        "description": "Kangaroo Court",
+        "image": "ipfs://bafybeic7bdeizr3luqxz7twzavc5zpkb5t6pdguubrjkvhln2py5ubposy/defense1.png",
+        "dna": "029727r9hf9wehf9wehjf0weufhw038q0urh938r0irj0ff",
+        "edition": 3,
+        "date": 1683901673
+        "attributes": [
+    {
+        "trait_type": "Integrity",
+        "value": "10"
+        },
+    {
+        "trait_type": "Perserverance",
+        "value": "10"
+    }
+    ]
+    },
+    {
+        "name": "Kangaroo Court Jury #1",
+        "description": "Kangaroo Court",
+        "image": "ipfs://bafybeic7bdeizr3luqxz7twzavc5zpkb5t6pdguubrjkvhln2py5ubposy/witness1.png",
+        "dna": "0w9fu9weuf9h93ru93ryh93fh93hf93fh9fh0w3fquq83r08030",
+        "edition": 4,
+        "date": 1683901673
+        "attributes": [
+    {
+        "trait_type": "Honesty",
+        "value": "10"
+        }
+    {
+        "trait_type": "Intelligence",
+        "value": "10"
+    }
+    ]
+    },
+    {
+        "name": "Kangaroo Court Jury #2",
+        "description": "Kangaroo Court",
+        "image": "ipfs://bafybeic7bdeizr3luqxz7twzavc5zpkb5t6pdguubrjkvhln2py5ubposy/witeness2.png",
+        "dna": "09q3ur9q3ur93hf9f09h9hf3r80380ru0jn90jc0j03iefj9ef03333",
+        "edition": 5,
+        "date": 1683901673
+        "attributes": [
+    {
+        "trait_type": "Honesty",
+        "value": "10"
+    },
+    {
+        "trait_type": "Intelligence",
+        "value": "10"
+    }
+    ]
+    },
+    {
+        "name": "Kangaroo Court Jury #3",
+        "description": "Kangaroo Court",
+        "image": "ipfs://bafybeic7bdeizr3luqxz7twzavc5zpkb5t6pdguubrjkvhln2py5ubposy/witness3.png",
+        "dna": "09h03ur9h0fh30f3h93r89rhf9h0qjf0qu0q3r80q3r0j0nf0hfu0q3",
+        "edition": 6,
+        "date": 1683901673
+        "attributes": [
+    {
+        "trait_type": "Honesty",
+        "value": "10"
+    },
+    {
+        "trait_type": "Intelligence",
+        "value": "10"
+    }
+    ]
+    },
+    {
+        "name": "Kangaroo Court Bailiff",
+        "description": "Kangaroo Court",
+        "image": "ipfs://bafybeic7bdeizr3luqxz7twzavc5zpkb5t6pdguubrjkvhln2py5ubposy/balif1.png",
+        "dna": "039ru39ru09f03f0hf0hfg08e0hv9wehf0uq30fqev9oejfojefeofj0jwf",
+        "edition": 7,
+        "date": 1683901673
+        "attributes": [
+    {
+        "trait_type": "Strength",
+        "value": "10"
+    },
+    
+    {
+        "trait_type": "Perception",
+        "value": "10"
+    }
+
+       ]
+    },
+    {
+        "name": "Kangaroo Court Defandant",
+        "description": "Kangaroo Court",
+        "image": "ipfs://bafybeic7bdeizr3luqxz7twzavc5zpkb5t6pdguubrjkvhln2py5ubposy/defandant1.png",
+        "dna": "039274927ru9urj0928r03urj03ru0eiufjwe9fuwh9fwhj0803r8q30rj",
+        "edition": 8,
+        "date": 1683901673
+        "attributes": [
+    {
+        "trait_type": "Bargening",
+        "value": "10"
+    },
+    
+    {
+        "trait_type": "Posterity",
+        "value": "10"
+    }
+
+       ]
+    }
+
+]

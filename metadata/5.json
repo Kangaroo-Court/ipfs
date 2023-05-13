@@ -1,0 +1,18 @@
+{
+    "name": "Kangaroo Court Jury #2",
+    "description": "Kangaroo Court",
+    "image": "ipfs://bafybeic7bdeizr3luqxz7twzavc5zpkb5t6pdguubrjkvhln2py5ubposy/witeness2.png",
+    "dna": "09q3ur9q3ur93hf9f09h9hf3r80380ru0jn90jc0j03iefj9ef03333",
+    "edition": 5,
+    "date": 1683901673
+    "attributes": [
+{
+    "trait_type": "Honesty",
+    "value": "10"
+},
+{
+    "trait_type": "Intelligence",
+    "value": "10"
+}
+]
+}

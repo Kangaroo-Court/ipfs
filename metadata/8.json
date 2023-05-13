@@ -1,0 +1,20 @@
+{
+    "name": "Kangaroo Court Defandant",
+    "description": "Kangaroo Court",
+    "image": "ipfs://bafybeic7bdeizr3luqxz7twzavc5zpkb5t6pdguubrjkvhln2py5ubposy/defandant1.png",
+    "dna": "039274927ru9urj0928r03urj03ru0eiufjwe9fuwh9fwhj0803r8q30rj",
+    "edition": 8,
+    "date": 1683901673
+    "attributes": [
+{
+    "trait_type": "Bargening",
+    "value": "10"
+},
+
+{
+    "trait_type": "Posterity",
+    "value": "10"
+}
+
+   ]
+}

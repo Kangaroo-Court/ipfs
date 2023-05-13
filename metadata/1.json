@@ -1,0 +1,21 @@
+{
+    "name": "Kangaroo Court Judge",
+    "description": "Kangaroo Court",
+    "image": "ipfs://bafybeic7bdeizr3luqxz7twzavc5zpkb5t6pdguubrjkvhln2py5ubposy/judge.png",
+    "dna": "0w3r99uofjoejiwj9wur9gj9rge9rer9t8398r93utf9wjg9rhg9erhosdvs",
+    "edition": 1,
+    "date": 1683901673
+
+    "attributes": [
+{
+    "trait_type": "Wisdom",
+    "value": "10"
+},
+{
+    "trait_type": "Patience",
+    "value": "10"
+}
+
+                    ],
+    "compiler": "Kanga"
+}
